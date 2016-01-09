@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+    font-size: 17px;
+    font-size: 1.1rem;
+}
+
+.div{
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+
+.flex{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+}

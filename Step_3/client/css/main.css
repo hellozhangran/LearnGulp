@@ -1,0 +1,16 @@
+:root{
+    --color:red;
+    --fontSize:1.1rem;
+}
+body{
+    background-color:var(--color);
+    font-size: var(--fontSize);
+}
+
+.div{
+    display: inline-block;
+}
+
+.flex{
+    display: flex;
+}
